@@ -1,14 +1,13 @@
 <h1>WASM_2_IMAGE_PIXEL SEARCHER</h1>
 by Gounbeee 2022
-
-
+<br>
 THIS EXAMPLE LOADS IMAGE FILE AND
 PASS THE PIXEL DATA TO WASM MODULE
 THEN,
 WE SPECIFY PIXEL DATA USING INDEX NUMBER
 EVERY PIXEL CONSISTS OF 4 CHANNELS SO
 SINGLE INDEX CAN REPRESENTS 'SOMEWHAT CHANNEL' OF A PIXEL
-
+<br>
 ----------------------------------------
 getPixel( pointerOfArray , pixelIndex )
 ----------------------------------------
