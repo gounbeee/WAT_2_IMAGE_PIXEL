@@ -1,0 +1,1 @@
+wat2wasm image.wat -o image.wasm
